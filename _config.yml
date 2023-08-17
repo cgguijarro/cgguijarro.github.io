@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carlos Gómez Guijarro"
+  name             : "Carlos Gómez-Guijarro"
   avatar           : "profile.png"
   bio              : ""
   location         : "Paris, France"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/cgguijarro"
+  github           : "cgguijarro"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/cgguijarro/"
+  linkedin         : "cgguijarro"
   orcid            : "https://orcid.org/0000-0002-4085-9165"
   pinterest        :
   soundcloud       :
