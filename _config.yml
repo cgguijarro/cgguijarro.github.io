@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Gómez-Guijarro"
-  avatar           : "cgguijarro.jpg"
+  avatar           : "https://cgguijarro.github.io/images/cgguijarro.jpg"
   bio              : ""
   location         : "Paris, France"
   employer         : "CEA/CNRS Paris-Saclay"
