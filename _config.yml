@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Gómez-Guijarro / Personal Webpage"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Carlos Gómez-Guijarro"
+name                     : &name "Carlos Gómez Guijarro"
 description              : &description "CNRS Posdoctoral Researcher"
 url                      : https://cgguijarro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
