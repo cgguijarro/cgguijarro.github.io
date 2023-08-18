@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Download my CV here: https://cgguijarro.github.io/files/CV_CGG.pdf
