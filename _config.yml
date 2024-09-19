@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Webpage - Home"
+title                    : "Carlos Gómez Guijarro - Personal Webpage - Home"
 title_separator          : "-"
 name                     : &name "Carlos Gómez Guijarro"
 description              : &description "CNRS Posdoctoral Researcher"
@@ -87,7 +87,7 @@ author:
   employer         : "CEA/CNRS Paris-Saclay"
   pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=HRo7_ycAAAAJ&hl=en"
-  email            : "carlos.gomezguijarro@cea.fr"
+  email            : "cgzguijarro@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Carlos-Gomez-Guijarro"
   uri              :
   bitbucket        :
