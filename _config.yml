@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Gómez Guijarro - Personal Webpage - Home"
+title                    : "Personal Webpage - Home"
 title_separator          : "-"
 name                     : &name "Carlos Gómez Guijarro"
 description              : &description "CNRS Posdoctoral Researcher"
