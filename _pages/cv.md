@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download [my CV here](https://cgguijarro.github.io/files/CV_web.pdf)
+Download [my CV here](https://cgguijarro.github.io/files/CV.pdf)
